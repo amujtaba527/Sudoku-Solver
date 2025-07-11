@@ -44,7 +44,7 @@ A C++ console application to solve Sudoku puzzles using a backtracking algorithm
 - `README.md`: Documentation and usage guide (this file).
 
 ## Credits
-- Developed by [Your Name].
+- Developed by Ahmad Mujtaba.
 - Special thanks to all contributors and users providing feedback.
 
 ---
